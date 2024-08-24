@@ -1,0 +1,25 @@
+body {
+  background-color: black;
+}
+.content1 {
+  background-color: white;
+  margin-top: 10%;
+  padding: 40px;
+  border-radius: 20px;
+}
+.rate {
+  border: 1px solid red;
+  border-radius: 55%;
+  padding: 10px;
+  padding-left: 15px;
+  padding-right: 15px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.rate {
+  cursor: pointer;
+}
+.para1 {
+  font-size: 20px;
+}
